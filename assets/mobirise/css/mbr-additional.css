@@ -1371,10 +1371,13 @@ a {
 }
 
 .cid-uXh3TikwOc .carousel-caption {
-  bottom: 40px;
+  bottom: 220px;
   color: white;
   border-radius: 12px;
   background-color: #00000075;
+  /* top: 150px; */
+  margin-top: auto;
+  
 }
 
 .cid-uXh3TikwOc .mobi-mbri-arrow-next {
